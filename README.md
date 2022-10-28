@@ -1,6 +1,6 @@
 # Overview of the Bikesharing Analysis:
 
-This week, students were introduced to Tableau, a power visualization tool used by many commercial and government organizations. Tableau has a GUI front-end (graphical user interface) that allows for dropping and dragging dimensions and measures to create graphs, charts, storyboards, and dashboards. These help the data analyst effectively communicate what the data is telling us. This week’s module incorporates key concepts and skills development including:
+This week, students were introduced to Tableau, a powerful visualization tool used by many commercial and government organizations. Tableau has a GUI front-end (graphical user interface) that allows for dropping and dragging dimensions and measures to create graphs, charts, storyboards, and dashboards. These help the data analyst effectively communicate what the data is telling us. This week’s module incorporates key concepts and skills development including:
 
 - Importing data into Tableau.
 - Creating worksheets, dashboards, and stories in Tableau.
