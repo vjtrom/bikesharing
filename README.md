@@ -29,3 +29,9 @@ The Bikesharing program is mostly used by subscribers for commuting purposes dur
 Most of the starting locations begin in lower and midtown Manhattan, while ending locations also include parts of upper Manhattan and Brooklyn. Since there are more offices in lower and midtown Manhattan, and more residences in Upper Manhattan and Brooklyn, as well as the fact that the highest peak ridership is in the evening at rush hour, this would suggest that people really like using the Bikesharing program to commute home during weekdays, especially Monday, Tuesday and Thursday. 
 
 One idea is to move more bikes to lower and midtown Manhattan on these evenings so that more people can enjoying using them to commute home, and to avoid any low inventory of bikes in these locations at these times. 
+
+Additional visualizations for future analysis would be:
+
+- how many bikes are available at each location at any given time
+- whether there are any shortgages of bikes in any location given demand
+
