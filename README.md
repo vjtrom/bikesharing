@@ -72,3 +72,4 @@ Additional visualizations for future analysis would be:
 - how many bikes are available at each location at any given time
 - whether there are any shortgages of bikes in any location given demand
 
+The link to the Dashboard is here https://public.tableau.com/app/profile/vincent.trombetta/viz/BikeshareIIDashboard/Dashboard1?publish=yes
